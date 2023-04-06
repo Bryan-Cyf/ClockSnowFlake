@@ -295,3 +295,4 @@ __pycache__/
 /src/AIAgain.EnterpriseWeChat.TaskAPI.RepositoriesTests/Client/ClientExtendRepositoryTests.cs
 /src/AIAgain.EnterpriseWeChat.TaskAPI.RepositoriesTests/Client
 /src/AIAgain.EnterpriseWeChat.TaskAPI.RepositoriesTests
+/ClockSnowFlake/build/nupkg
