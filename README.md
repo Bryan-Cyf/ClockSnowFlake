@@ -90,6 +90,7 @@ public class SnowFlakeController : ControllerBase
 > 这里采用的是一种基于修改扩展位的思路，基于时钟序列的雪花算法
 > 二进制64位长整型数字：1bit保留 + 41bit时间戳 + 3位时钟序列 + 7bit机器 + 12bit序列号
 
+![](media/content-base64.png?raw=true)
 ![](media/algorithm.png?raw=true)
 
 
