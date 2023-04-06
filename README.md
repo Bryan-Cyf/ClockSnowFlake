@@ -110,3 +110,9 @@ public class SnowFlakeController : ControllerBase
 
 ## 关键实现代码
 - [点击跳转代码位置](https://github.com/Bryan-Cyf/ClockSnowFlake/blob/master/ClockSnowFlake/src/Tools.SnowFlake/Ids/ClockSnowflakeId.cs)
+
+## 更多示例
+
+1. 查看 [使用例子](https://github.com/Bryan-Cyf/ClockSnowFlake/tree/master/sample)
+2. 查看 [测试用例](https://github.com/Bryan-Cyf/ClockSnowFlake/tree/master/test)
+
