@@ -16,6 +16,6 @@
 		<PackageReference Include="FakeItEasy" Version="6.0.0" />
 	</ItemGroup>
 	<ItemGroup>
-	  <ProjectReference Include="..\..\src\Tools.SnowFlake\ClockSnowFlake.csproj" />
+	  <ProjectReference Include="..\..\src\ClockSnowFlake\ClockSnowFlake.csproj" />
 	</ItemGroup>
 </Project>
