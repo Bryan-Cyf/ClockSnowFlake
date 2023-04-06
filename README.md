@@ -18,7 +18,7 @@
 - [x] 支持自定义WorkId
 - [x] 基于时间序列，解决时间回拨问题
 - [x] 傻瓜式配置，开箱即用
-- [x] [关键实现代码](https://github.com/Bryan-Cyf/ClockSnowFlake/blob/master/ClockSnowFlake/src/Tools.SnowFlake/Ids/ClockSnowflakeId.cs)
+- [x] [关键实现代码](https://github.com/Bryan-Cyf/ClockSnowFlake/blob/master/src/ClockSnowFlake/Ids/ClockSnowflakeId.cs)
  ---------
 
  
