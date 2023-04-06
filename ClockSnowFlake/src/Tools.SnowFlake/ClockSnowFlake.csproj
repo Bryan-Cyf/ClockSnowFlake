@@ -1,6 +1,6 @@
 <Project Sdk="Microsoft.NET.Sdk">
 
-	<Import Project="..\..\build\notice.props" />
+	<Import Project="..\..\build\nuget.props" />
 	<PropertyGroup>
 		<TargetFramework>netstandard2.1</TargetFramework>
 		<RootNamespace>ClockSnowFlake</RootNamespace>

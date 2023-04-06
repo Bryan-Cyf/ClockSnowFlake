@@ -9,10 +9,9 @@ namespace ClockSnowFlake.Unitests
 
         public ClockSnowFlakeTest()
         {
-            var configurationBuilder = new ConfigurationBuilder();
-            var config = configurationBuilder.Build();
+            IServiceCollection services = new ServiceCollection();
             //注意：工作机器ID不能重复
-            config.AddSnowFlakeId(x => x.WorkId = 2);
+            services.AddSnowFlakeId(x => x.WorkId = 2);
         }
 
         [Fact]
