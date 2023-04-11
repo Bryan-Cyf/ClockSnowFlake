@@ -1,6 +1,6 @@
 <Project>
 	<PropertyGroup>
-		<VersionPrefix>1.0.0</VersionPrefix>
+		<VersionPrefix>1.1.0</VersionPrefix>
 		<VersionSuffix>0</VersionSuffix>
 		<Version>$(VersionPrefix).$(VersionSuffix)</Version>
 		<AssemblyVersion>$(VersionPrefix).0</AssemblyVersion>
@@ -10,5 +10,7 @@
 		<Product>ClockSnowFlake</Product>
 		<PackageProjectUrl>https://github.com/Bryan-Cyf/ClockSnowFlake</PackageProjectUrl>
 		<GeneratePackageOnBuild>True</GeneratePackageOnBuild>
+		<PackageIcon>nuget-icon.png</PackageIcon>
 	</PropertyGroup>
+
 </Project>
