@@ -1,6 +1,5 @@
 # ClockSnowFlake
 
-
 ## Nuget包
 
 | Package Name |  Version | Downloads
@@ -19,6 +18,11 @@
 - [x] 基于时间序列，解决时间回拨问题
 - [x] 傻瓜式配置，开箱即用
 - [x] [关键实现代码](https://github.com/Bryan-Cyf/ClockSnowFlake/blob/master/src/ClockSnowFlake/Ids/ClockSnowflakeId.cs)
+
+## 文档资料
+- [x] [『ClockSnowFlake』.Net项目接入文档](https://chenyuefeng.blog.csdn.net/article/details/129998719)
+- [x] [『SnowFlake』雪花算法的详解及时间回拨解决方案](https://chenyuefeng.blog.csdn.net/article/details/128245550)
+
  ---------
 
  
