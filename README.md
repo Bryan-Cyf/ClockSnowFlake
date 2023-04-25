@@ -4,7 +4,7 @@
 
 | Package Name |  Version | Downloads
 |--------------|  ------- | ----
-| ClockSnowFlake | ![](https://img.shields.io/badge/nuget-v1.1.0-blue) | ![](https://img.shields.io/badge/downloads-xM-brightgreen)|
+| ClockSnowFlake | [![NuGet](https://img.shields.io/nuget/v/ClockSnowFlake)](https://www.nuget.org/packages/ClockSnowFlake) | [![NuGet](https://img.shields.io/nuget/dt/ClockSnowFlake)](https://www.nuget.org/packages/ClockSnowFlake)|
 
 ---------
 
